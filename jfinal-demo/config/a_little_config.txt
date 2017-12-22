@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://localhost:3306/zhou_database
+user = root
+password =admin
+devMode = true

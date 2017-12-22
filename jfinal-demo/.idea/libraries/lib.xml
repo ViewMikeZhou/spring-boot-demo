@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib" />
+      <root url="file://D:/tomcat/apache-tomcat-7.0.79-windows-x64/apache-tomcat-7.0.79/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib" recursive="false" />
+    <jarDirectory url="file://D:/tomcat/apache-tomcat-7.0.79-windows-x64/apache-tomcat-7.0.79/lib" recursive="false" />
+  </library>
+</component>
